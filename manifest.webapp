@@ -1,0 +1,14 @@
+{
+	"version": "1.0",
+	"name": "Cities Near Me",
+	"description": "A simple app for finding cities near your current location.   #firefoxstudents",
+	"icons": {
+		"128": "/icons/icon.png"
+	},
+	"launch_path": "/index.html",
+	"developer":  {
+		"name": "Moiz Sajid",
+		"url": "http://www.moizsajid.com"
+	},
+	"default_locale": "en"
+}
